@@ -6,7 +6,7 @@
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
 
 ### TESTED WITH
-![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
+![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
 
 -----------------------------------
 ###       W I N D O W S
