@@ -23,7 +23,7 @@ Excute this program using WSL
 >sudo python3 ping.py www.github.com  <br/>
 >sudo python3 ping.py 8.8.8.8 <br/>
 
-### REQUIRMENT
+### NOTE
 - Run using SUDO privilege              - LINUX
 - Run using Administration privilege    - WINDOWS
 - Use "-h" for help
