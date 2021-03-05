@@ -1,6 +1,5 @@
 # PingTool
-
-    Created Ping Tool Using Python-3. Networking utility
+  Created Ping Tool Using Python-3. Networking utility
 
 ### [What is it About?](https://en.wikipedia.org/wiki/Ping_(networking_utility))
     Ping is a computer network administration software utility used to test the 
