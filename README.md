@@ -30,3 +30,5 @@ Excute this program using WSL
 - Run using SUDO privilege              - LINUX
 - Run using Administration privilege    - WINDOWS
 - Use "-h" for help
+
+### OUTPUT
