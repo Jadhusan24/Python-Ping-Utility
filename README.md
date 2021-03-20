@@ -34,8 +34,20 @@ Excute this program using WSL
 | ICMP Type     | Literal                                                          |
 | :------------ |:---------------------------------------------------------------: | 
 | 0             | echo-reply                                                       |
-| 3             | destination unreachable code 0 = net unreachable 1 = host <b/>
-                  unreachable 2 = protocol unreachable 3 = port unreachable 4 =
-                  fragmentation needed and DF set 5 = source route failed          |
-| 4             | are neat                                                         |
-  
+| 3             | destination unreachable code 0 = net unreachable 1 = host        |
+| 4             | source-quencht                                                   |
+| 5             | are neat                                                         |
+| 6             | alternate-address                                                |
+| 8             | echo                                                             |
+| 9             | router-advertisement                                             |
+| 10            | router-solicitation                                              |
+| 11            | are neat                                                         |
+| 12            | parameter-problem                                                |
+| 13            | timestamp-request                                                |
+| 14            | timestamp-reply                                                  |
+| 15            | information-request                                              |
+| 16            | information-reply                                                |
+| 17            | mask-request                                                     |
+| 18            | mask-reply                                                       |
+| 31            | conversion-error                                                 |
+| 32            | mobile-redirect                                                  |
