@@ -38,9 +38,9 @@ Excute this program using WSL
 >sudo python3 ping.py 8.8.8.8 <br/>
 
 ### NOTE
-- Run using SUDO privilege              - LINUX
-- Run using Administration privilege    - WINDOWS
-- Use "-h" for help
+- Run using **Sudo** privilege              - **LINUX**
+- Run using **Administration** privilege        - **WINDOWS**
+- Use **-h** for help
 
 | ICMP Type     | Literal                                                          |
 | :------------ |:---------------------------------------------------------------: | 
