@@ -31,8 +31,10 @@ Excute this program using WSL
 - Run using Administration privilege    - WINDOWS
 - Use "-h" for help
 
-| ICMP Type  | Literal  |
-| :------------ |:---------------:| 
-| 0      | some wordy text |
-| 3      | centered        |
+| ICMP Type     | Literal                                                   |
+| :------------ |:--------------------------------------------------------: | 
+| 0      | echo-reply                                                       |
+| 3      | destination unreachable code 0 = net unreachable 1 = host        |
+         |  unreachable 2 = protocol unreachable 3 = port unreachable 4 =   |
+         |  fragmentation needed and DF set 5 = source route failed         |
 | 4 | are neat        |
