@@ -1,7 +1,7 @@
-# Ping Utility 
+# Python3-Ping-Utility 
     This illustrates the use of ping command 
 
-### [What is it About?](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html))
+## [Reference?](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html))
     The ping command is a very common method for troubleshooting the accessibility of devices. 
     It uses a series of Internet Control Message Protocol (ICMP) Echo messages to determine
 
