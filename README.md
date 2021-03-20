@@ -36,12 +36,12 @@ Excute this program using WSL
 | 0             | echo-reply                                                       |
 | 3             | destination unreachable code 0 = net unreachable 1 = host        |
 | 4             | source-quencht                                                   |
-| 5             | are neat                                                         |
+| 5             |                                                          |
 | 6             | alternate-address                                                |
 | 8             | echo                                                             |
 | 9             | router-advertisement                                             |
 | 10            | router-solicitation                                              |
-| 11            | are neat                                                         |
+| 11            | time-exceeded code 0 = time to live exceeded in transit 1 = fragment reassembly time exceeded   |
 | 12            | parameter-problem                                                |
 | 13            | timestamp-request                                                |
 | 14            | timestamp-reply                                                  |
