@@ -1,4 +1,4 @@
-# PingTool
+# Ping Utility 
   Created Ping Tool Using Python-3. Networking utility
 
 ### [What is it About?](https://en.wikipedia.org/wiki/Ping_(networking_utility))
