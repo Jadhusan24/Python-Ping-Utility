@@ -1,9 +1,18 @@
 # Ping Utility 
-  Created Ping Tool Using Python-3. Networking utility
+    This illustrates the use of ping command 
 
-### [What is it About?](https://en.wikipedia.org/wiki/Ping_(networking_utility))
-    Ping is a computer network administration software utility used to test the 
-    reachability of a host on an Internet Protocol (IP) network..
+### [What is it About?](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html))
+    The ping command is a very common method for troubleshooting the accessibility of devices. It uses a series of Internet Control Message Protocol (ICMP) Echo messages to determine
+
+• Whether a remote host is active or inactive <br/>
+• The round-trip delay in communicating with the host  <br/>
+• Packet loss   <br/>
+
+    The ping command first sends an echo request packet to an address, then waits for a reply. The ping is successful only if,
+• the echo request gets to the destination, and <br/>
+• the destination is able to get an echo reply back to the source within a predetermined time called a timeout. <br/>
+
+The TTL value of a ping packet cannot be changed <br/>
 
 ### TESTED WITH
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
