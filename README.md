@@ -36,10 +36,7 @@ Excute this program using WSL
 | 0             | echo-reply                                                       |
 | 3             | destination unreachable code 0 = net unreachable 1 = host        |
 | 4             | source-quencht                                                   |
-| 5             | redirect code 0 = redirect datagrams for the network 1 = redirect
-datagrams for the host 2 = redirect datagrams for the type of
-service and network 3 = redirect datagrams for the type of
-service and host                                                         |
+| 5             | redirect code 0 = redirect datagrams for the network 1 = redirect datagrams for the host 2 = redirect datagrams for the type of service and network 3 = redirect datagrams for the type of service and host                                                         |
 | 6             | alternate-address                                                |
 | 8             | echo                                                             |
 | 9             | router-advertisement                                             |
