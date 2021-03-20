@@ -31,3 +31,8 @@ Excute this program using WSL
 - Run using Administration privilege    - WINDOWS
 - Use "-h" for help
 
+| ICMP Type  | Literal  |
+| :------------ |:---------------:| 
+| 0      | some wordy text |
+| 3      | centered        |
+| 4 | are neat        |
