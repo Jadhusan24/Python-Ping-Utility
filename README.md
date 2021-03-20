@@ -34,9 +34,9 @@ Excute this program using WSL
 | ICMP Type     | Literal                                                          |
 | :------------ |:---------------------------------------------------------------: | 
 | 0             | echo-reply                                                       |
-| 3             | destination unreachable code 0 = net unreachable 1 = host        |
+| 3             | destination unreachable code 0 = net unreachable 1 = host unreachable 2 = protocol unreachable 3 = port unreachable 4 = fragmentation needed and DF set 5 = source route failed                                                                |
 | 4             | source-quencht                                                   |
-| 5             | redirect code 0 = redirect datagrams for the network 1 = redirect datagrams for the host 2 = redirect datagrams for the type of service and network 3 = redirect datagrams for the type of service and host                                                         |
+| 5             | redirect code 0 = redirect datagrams for the network 1 = redirect datagrams for the host 2 = redirect datagrams for the type of service and network 3 = redirect datagrams for the type of service and host                                |
 | 6             | alternate-address                                                |
 | 8             | echo                                                             |
 | 9             | router-advertisement                                             |
