@@ -9,7 +9,8 @@
 • The round-trip delay in communicating with the host  <br/>
 • Packet loss   <br/>
 
-    The ping command first sends an echo request packet to an address, then waits for a reply. The ping is successful only if,
+    The ping command first sends an echo request packet to an address, then waits for a reply. 
+    The ping is successful only if,
 • the echo request gets to the destination, and <br/>
 • the destination is able to get an echo reply back to the source within a predetermined time called a timeout. <br/>
 
