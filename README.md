@@ -5,6 +5,8 @@
     The ping command is a very common method for troubleshooting the accessibility of devices. 
     It uses a series of Internet Control Message Protocol (ICMP) Echo messages to determine
 
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
+
 • Whether a remote host is active or inactive <br/>
 • The round-trip delay in communicating with the host  <br/>
 • Packet loss   <br/>
