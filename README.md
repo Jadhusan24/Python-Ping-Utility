@@ -44,9 +44,6 @@ Excute this program using WSL
 - Run using **Administration** privilege        - **WINDOWS**
 - Use **-h** for help
 
-_Why Do We have 32 ICMP TYPE_
-
-        MAXIMUM 32 Bytes Allowed in ICMP FIELD Thats why we have 32 ICMP Type.
 
 | ICMP Type     | Literal                                                          |
 | :------------ |:---------------------------------------------------------------: | 
