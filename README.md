@@ -44,7 +44,6 @@ Excute this program using WSL
 - Run using **Administration** privilege        - **WINDOWS**
 - Use **-h** for help
 
-
 | ICMP Type     | Literal                                                          |
 | :------------ |:---------------------------------------------------------------: | 
 | 0             | echo-reply                                                       |
