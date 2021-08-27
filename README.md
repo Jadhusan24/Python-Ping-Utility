@@ -25,10 +25,10 @@ The TTL value of a ping packet cannot be changed <br/>
 ###       W I N D O W S
 -----------------------------------
 Excute this program using WSL
-- open WSL Terminal
+- open CMD
 - navigate to  file path
 - type the following command
->python ping.py www.github.com  <br/>
+>python ping.py www.google.com  <br/>
 >python ping.py 8.8.8.8 <br/>
 -----------------------------------
 ###         L I N U X
@@ -36,7 +36,7 @@ Excute this program using WSL
 - open terminal
 - navigate to file path
 - type the following command
->sudo python3 ping.py www.github.com  <br/>
+>sudo python3 ping.py www.google.com  <br/>
 >sudo python3 ping.py 8.8.8.8 <br/>
 
 ### NOTE
