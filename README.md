@@ -65,3 +65,9 @@ Excute this program using WSL
 | 31            | conversion-error                                                 |
 | 32            | mobile-redirect                                                  |
 
+### Output
+
+![result](./Screenshots/result1.JPG)
+
+![result](./Screenshots/result2.JPG)
+
