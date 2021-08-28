@@ -71,7 +71,7 @@ Excute this program using WSL
 
 ![result](./Screenshots/result1.jpg)
 
- -Ip Address
+ - Ip Address
 
 ![result](./Screenshots/result2.jpg)
 
