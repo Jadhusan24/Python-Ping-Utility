@@ -67,11 +67,11 @@ Excute this program using WSL
 
 ### Output
 
-![result](./Screenshots/result1.JPG)
+![result](./Screenshots/result1.jpg)
 
-![result](./Screenshots/result2.JPG)
+![result](./Screenshots/result2.jpg)
 
-![error](./Screenshots/err.JPG)
+![error](./Screenshots/err.jpg)
 
-![help](./Screenshots/help.JPG)
+![help](./Screenshots/help.jpg)
 
