@@ -67,11 +67,19 @@ Excute this program using WSL
 
 ### Output
 
+ - domain 
+
 ![result](./Screenshots/result1.jpg)
+
+ -Ip Address
 
 ![result](./Screenshots/result2.jpg)
 
+ - root permission
+
 ![error](./Screenshots/err.jpg)
+
+ - Help
 
 ![help](./Screenshots/help.jpg)
 
