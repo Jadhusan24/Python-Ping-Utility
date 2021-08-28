@@ -71,3 +71,7 @@ Excute this program using WSL
 
 ![result](./Screenshots/result2.JPG)
 
+![error](./Screenshots/err.JPG)
+
+![help](./Screenshots/help.JPG)
+
