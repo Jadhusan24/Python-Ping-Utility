@@ -12,7 +12,7 @@
          
       The TTL value of a ping packet cannot be changed <br/>
 
-#### Article 
+#### ARTICLE 
 
 https://jadhusan-s.medium.com/testing-connectivity-on-a-network-ping-utility-6f3139f5b3c0
 
